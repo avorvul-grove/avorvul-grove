@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avorvul-grove
+- 👋 Hi, I’m Alexander Vorvul from Minsk
 - 👀 I’m interested in Automated Testing
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Amazon Web Services
 - 💞️ I’m looking to collaborate on https://www.grove.co/
 - 📫 I'm available via avorvul@grove.co
 
